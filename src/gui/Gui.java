@@ -58,7 +58,7 @@ public class GUI extends JFrame implements ICommon, ITrans {
     WindowListener wd = new WindowAdapter() {
       @Override
       public void windowClosing(WindowEvent e) {
-        int kq = JOptionPane.showConfirmDialog(GUI.this, "Bạn có muốn thoát không?",
+        int kq = JOptionPane.showConfirmDialog(GUI.this, "Do you want exit?",
          "Thông báo", JOptionPane.YES_NO_OPTION);
         if (kq == JOptionPane.YES_OPTION) {
           dispose();
