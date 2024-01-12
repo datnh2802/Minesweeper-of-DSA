@@ -12,7 +12,7 @@ import logic.Board;
 import logic.Square;
  
 public class Gui extends JFrame implements ICommon, ITrans {
-  private static final long serialVersionUID = -5479701518838741039L;
+  private static final long serialVersionUID = 6099893043079770073L;
   private static final String TITLE = "MineSweeper";
   public static final int FRAME_WIDTH = 730;
   public static final int FRAME_HEIGHT = 600;
