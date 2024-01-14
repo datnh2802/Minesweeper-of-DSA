@@ -30,3 +30,5 @@ How to play the game, you asked?
 You just have to download this whole projecct into you driver (you don't have to download the report file though). Open this project with your IDE, looking for the main method in the 'GFrame' class and there we go.
 
 Enjoy your game!
+
+UML Diagram: https://drive.google.com/file/d/1gMPINH_Jp553S5-AEmxwla6LBjlav2nc/view?usp=drive_link
